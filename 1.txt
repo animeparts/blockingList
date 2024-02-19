@@ -29,3 +29,4 @@ adform.net
 adstreamer
 video-mech.ru
 googlesyndicatio
+youtube.com
